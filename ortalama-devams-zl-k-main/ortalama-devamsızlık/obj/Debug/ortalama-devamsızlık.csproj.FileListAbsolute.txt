@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\bin\Debug\ortalama-devamsızlık.exe.config
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\bin\Debug\ortalama-devamsızlık.exe
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\bin\Debug\ortalama-devamsızlık.pdb
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama-devamsızlık.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama-devamsızlık.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama_devamsızlık.Form1.resources
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama_devamsızlık.Properties.Resources.resources
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama-devamsızlık.csproj.GenerateResource.cache
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama-devamsızlık.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama-devamsızlık.exe
+C:\Users\User\Desktop\elif\ortalama-devamsızlık\ortalama-devamsızlık\obj\Debug\ortalama-devamsızlık.pdb
